@@ -1,0 +1,38 @@
+
+.navBar{
+    display: flex;
+    flex-direction: column;
+    height: calc(100% - 2em);
+    width: 6em;
+    background-color: #fff);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em 0;
+    margin-right: 2em;
+    -webkit-box-shadow: 4px 2px 36px -17px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 2px 36px -17px rgba(0,0,0,0.75);
+    box-shadow: 4px 2px 36px -17px rgba(0,0,0,0.75);
+}
+
+.navArea{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.logoSite{
+    height: 3em;
+}
+
+.navBar .navIcone{
+    height: 2em;
+    opacity: 75%;
+    margin: 0.5em;
+}
+
+.navBar .navIcone:hover{
+    height: 2.2em;
+    opacity: 100%;
+    margin: 0.4em;
+}

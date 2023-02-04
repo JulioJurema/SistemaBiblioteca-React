@@ -1,10 +1,9 @@
+import RoutesApp from "./Routes";
 
 function App() {
   return (
-    <div>
-      <h1>Sistema Biblioteca</h1>
-    </div>
-  );
+    <RoutesApp/>
+  )
 }
 
 export default App;

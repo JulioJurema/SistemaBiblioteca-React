@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.routesArea{
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  width: 100%;
+}
