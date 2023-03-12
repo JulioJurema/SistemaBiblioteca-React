@@ -4,7 +4,7 @@
     flex-direction: column;
     height: calc(100% - 2em);
     width: 6em;
-    background-color: #fff);
+    background-color: #fff;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -16,7 +16,7 @@
 }
 
 .navArea{
-    display: flex;
+    display: flex;  
     flex-direction: column;
     text-align: center;
 }
